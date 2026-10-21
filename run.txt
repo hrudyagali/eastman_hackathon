@@ -1,0 +1,21 @@
+python -m venv hackathon_env
+
+hackathon_env\Scripts\activate
+
+python -m pip install --upgrade pip
+
+python -m pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+first time
+git init 
+git status
+git add.
+git commit -m " "
+
+git branch -M main
+git remote add origin url 
+git push -U origin main
+
+git add.
+git commit " "
+git push
+
